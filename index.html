@@ -38,8 +38,8 @@
 
   // line Def.
   var salesLine = d3.svg.line()
-    .x(function(d) { return x(d.key); })
-    .y(function(d) { return y(d.values); })
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.sales); })
     .interpolate("basis");
 
 
