@@ -1,2 +1,1 @@
-# MSCS5931_GroupProject
-Mean of the dataset/Visualization
+# MSCS5931D3ProjctGroup3
